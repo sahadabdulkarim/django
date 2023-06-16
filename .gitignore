@@ -1,1 +1,11 @@
-ECHO is on.
+
+venv/
+
+db.sqlite3
+
+
+staticfiles/
+
+
+.env
+local_settings.py
